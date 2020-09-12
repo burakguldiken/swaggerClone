@@ -1,1 +1,1 @@
-![alt text](proje-architecture.png)
+![alt text](swaggerclone.png)
