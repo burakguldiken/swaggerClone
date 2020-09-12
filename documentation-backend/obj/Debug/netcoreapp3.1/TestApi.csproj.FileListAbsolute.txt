@@ -1,0 +1,144 @@
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.xml
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cloudberry\source\repos\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\TestApi.xml
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\Desktop\vs\TestApi\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.xml
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\Cloudberry\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.exe
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.deps.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.runtimeconfig.dev.json
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\TestApi.xml
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.csprojAssemblyReference.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfoInputs.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.AssemblyInfo.cs
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.RazorTargetAssemblyInfo.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CopyComplete
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.Manifest.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\staticwebassets\TestApi.StaticWebAssets.xml
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.pdb
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.genruntimeconfig.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.csproj.CoreCompileInputs.cache
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ben burak\Desktop\vs\netcoreDocumentation\TestApi\obj\Debug\netcoreapp3.1\TestApi.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentation</name>
+    </assembly>
+    <members>
+        <member name="M:TestApi.Controllers.UserController.Get_Test_Method_1">
+            <summary>
+            Test Get Method
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Controllers.UserController.Test_Post_Method(System.Int32)">
+            <summary>
+            Test post method
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Controllers.UserController.Test_Put_Method(System.Int32)">
+            <summary>
+            Test Put Method
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Controllers.UserController.Test_Delete_Method(System.Int32)">
+            <summary>
+            Test delete method
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Controllers.UserController.Get_Document_Info">
+            <summary>
+            Returns Necessary Information For The Document
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Interfaces.IDocument.Create_Document_Info">
+            <summary>
+            Create document infos
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Interfaces.IMethod.ParseXml``1(System.String)">
+            <summary>
+            Application xml file is parsed
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="xml"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestApi.Interfaces.IMethod.NullRemover(System.Byte[])">
+            <summary>
+            Remove null portions
+            </summary>
+            <param name="DataStream"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
